@@ -1,0 +1,36 @@
+
+line_length: 9999
+
+
+disabled_rules:
+    - force_cast
+    - force_try
+    - identifier_name
+    - large_tuple
+    - type_name
+    - vertical_whitespace
+    - trailing_whitespace
+    - comment_spacing
+    - trailing_newline
+    - comma
+    - unused_closure_parameter
+    - static_over_final_class
+    - implicit_getter
+    - colon
+    - leading_whitespace
+    - trailing_semicolon
+    - void_return
+    - file_length
+    - vertical_parameter_alignment
+    - return_arrow_whitespace
+    - non_optional_string_data_conversion
+    - for_where
+    - function_body_length
+    - empty_enum_arguments
+    - trailing_comma
+    - cyclomatic_complexity
+    - todo
+    - type_body_length
+    - opening_brace
+    - redundant_optional_initialization
+    - unneeded_synthesized_initializer

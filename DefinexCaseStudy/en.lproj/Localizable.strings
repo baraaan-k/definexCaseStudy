@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  DefinexCaseStudy
+
+  Created by baran kutlu on 2.02.2025.
+  
+*/
+
+
+"welcome_message" = "Welcome to our app!";
+
+"login_button" = "LOGIN";
+"forgot_pass" = "I FORGOT MY PASS";
+"email" = "Email address";
+"password" = "Password";
+"discover" = "Discover";
+"coming_soon" = "Coming Soon";
+"stay_tuned" = "Stay Tuned";
+"OK" = "OK";
+"error" = "Error";
+"enter_email_pass" = "Please enter both email and password.";
+
+"error_message" = "An error occurred, please try again.";

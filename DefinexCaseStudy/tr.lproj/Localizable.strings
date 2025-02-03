@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  DefinexCaseStudy
+
+  Created by baran kutlu on 2.02.2025.
+  
+*/
+
+
+"welcome_message" = "Uygulamamıza Hoşgeldiniz!";
+
+"login_button" = "GİRİŞ";
+"forgot_pass" = "Şifremi Unuttum";
+"email" = "Email adresi";
+"password" = "Şifre";
+"discover" = "Keşfet";
+"coming_soon" = "Pek Yakında";
+"stay_tuned" = "Beklemede Kalın";
+"OK" = "Tamam";
+"error" = "Hata";
+"enter_email_pass" = "Lütfen email ve şifrenizi giriniz.";
+
+"error_message" = "Bir hata oluştu, lütfen tekrar deneyin.";
